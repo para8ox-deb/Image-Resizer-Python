@@ -80,6 +80,7 @@ wentry=Entry(f3,textvar=newwidth,font='lucida 16',width=10,justify=CENTER)
 wentry.grid(row=1,column=1,pady=15)
 f3.pack(pady=15)
 
+a
 #Save Image:
 f4=Frame(root)
 saveimg=Button(f4,text='Save New Image',font='Arial 16 bold',command=saveimg)
